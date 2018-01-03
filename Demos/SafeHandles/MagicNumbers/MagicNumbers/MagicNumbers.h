@@ -3,7 +3,7 @@
 //  MagicNumbers
 //
 //  Created by Mark on 5/28/16.
-//  Copyright © 2017 Xamarin. All rights reserved.
+//  Copyright © 2018 Xamarin Inc., Microsoft. All rights reserved.
 //
 
 #ifndef __MagicNumbers__
